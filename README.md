@@ -1,0 +1,1 @@
+# SmartSum - AI Document Summarizer
